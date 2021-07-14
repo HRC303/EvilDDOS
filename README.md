@@ -13,7 +13,7 @@ $ pkg install clang
 
 $ git clone https://github.com/story19/EvilDDOS
 
-$ cd evilDDOS
+$ cd EvilDDOS
 
 $ clang evil.c -o evil
 
