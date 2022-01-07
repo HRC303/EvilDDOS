@@ -13,7 +13,7 @@ $ pkg install git
 
 $ pkg install clang
 
-$ git clone https://github.com/story19/EvilDDOS
+$ git clone https://github.com/HRC303/EvilDDOS
 
 $ cd EvilDDOS
 
